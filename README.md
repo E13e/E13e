@@ -11,4 +11,4 @@
 ```
 # Projects
 📖​ **Portfolio** : [jeremy-r.netlify.app](https://jeremy-r.netlify.app/)  
-​🏗️​ **Currently working on** : (WIP)
+​🏗️​ **Currently working on** :[Custom Stickers Shop](https://surimi-mayonnaise.netlify.app/)
