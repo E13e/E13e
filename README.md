@@ -6,7 +6,7 @@
  じしˍ,)ノ              Terminal: WezTerm
 
                         Location: Toulouse, France
-                        Studies: BUT Informatique (Bachelor's degree in compsci)
+                        Studies: BUT Informatique (Bachelor's degree in computer science)
                         Seeking: Apprenticeship (September 2025)
 ```
 # Projects
