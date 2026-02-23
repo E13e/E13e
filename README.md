@@ -6,8 +6,8 @@
  じしˍ,)ノ              Terminal: WezTerm
 
                         Location: Toulouse, France
-                        Studies: BUT Informatique (Bachelor's degree in computer science)
-                        Seeking: Apprenticeship (September 2025)
+                        Studies: BUT Informatique
+                        Job: Web Developer
 ```
 # Projects
 📖​ **Portfolio** : [jeremy-r.netlify.app](https://jeremy-r.netlify.app/)  
