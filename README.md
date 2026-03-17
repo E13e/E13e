@@ -7,7 +7,7 @@
 
                         Location: Toulouse, France
                         Studies: BUT Informatique
-                        Job: Web Developer
+                        Job: Full Stack Developer
 ```
 # Projects
 📖​ **Portfolio** : [jeremy-r.netlify.app](https://jeremy-r.netlify.app/)  
