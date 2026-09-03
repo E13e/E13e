@@ -1,8 +1,8 @@
 ```
                         Jeremy@E
  ╱|、   ᴍɪᴀᴜ            _____________
-(˚ˎ。7                  OS: Windows 10, Arch Linux
- |、˜〵                 Shell: PowerShell, zsh
+(˚ˎ。7                  OS: Arch Linux
+ |、˜〵                 Shell: zsh
  じしˍ,)ノ              Terminal: WezTerm
 
                         Location: Toulouse, France
