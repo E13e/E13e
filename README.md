@@ -1,13 +1,14 @@
 ```
-                        Jeremy@E
- ╱|、   ᴍɪᴀᴜ            _____________
-(˚ˎ。7                  OS: Arch Linux
- |、˜〵                 Shell: zsh
- じしˍ,)ノ              Terminal: WezTerm
+            
+ ╱|、   ᴍɪᴀᴜ
+(˚ˎ。7    
+ |、˜〵   
+ じしˍ,)ノ
 
-                        Location: Toulouse, France
-                        Studies: BUT Informatique
-                        Job: Full Stack Developer
+I use Arch btw 💔​🥀​
+
+Full stack dev (en alternance)
+
 ```
 # Projects
 📖​ **Portfolio** : [jeremy-r.netlify.app](https://jeremy-r.netlify.app/)  
